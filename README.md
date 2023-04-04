@@ -6,7 +6,7 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 
 ### The reading list is expanded to include topics in Sound AI
 
-Maintained by [Soham Deshmukh](https://soham97.github.io)
+
 
 ## Recent Content
 INTERSPEECH 2022 papers added <br>
